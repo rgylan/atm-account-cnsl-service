@@ -1,0 +1,1 @@
+insert into atm.account(id, customer_id, account_type, balance) values(1, 1, 'Savings', 100000)
